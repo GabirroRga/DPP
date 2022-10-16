@@ -9,7 +9,7 @@
 
 	divheader{
 		height: 50px;
-		width: 100%;
+		width: auto;
 		background-color: #264d73;
 		padding: 10px;
 		position: fixed;
